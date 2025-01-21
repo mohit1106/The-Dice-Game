@@ -6,4 +6,5 @@ play it live: (https://mohit1106.github.io/The-Dice-Game/)
 how to play:
   1. open the link
   2. refresh the page, everytime you want to decide a winner.
-  3. see the winner 
+  3. see the winner
+  4. refresh again to play again
