@@ -8,3 +8,4 @@ how to play:
   2. refresh the page, everytime you want to decide a winner.
   3. see the winner
   4. refresh again to play again
+  5. continue refreshing, for trying again
