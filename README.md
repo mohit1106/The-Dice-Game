@@ -9,4 +9,3 @@ how to play:
   3. see the winner
   4. refresh again to play again
   5. continue refreshing, for trying again
-
